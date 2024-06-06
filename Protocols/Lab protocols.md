@@ -9,5 +9,7 @@
 [gnps] (https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp)
 
 ### Image
-![asparagopsis](Figs/BG1911202.jpg)
+![asparagopsis](Research-Methods-_TLK/Figs
+/BG1911202.jpg
+)
 
