@@ -9,6 +9,6 @@
 [gnps] (https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp)
 
 ### Image
-![Asparagopsis]
+# Asparagopsis
 ![alt text](BG1911202.jpg)
 
