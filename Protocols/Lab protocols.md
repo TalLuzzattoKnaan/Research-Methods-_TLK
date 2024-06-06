@@ -7,4 +7,5 @@
 ### Links
 [gnps] (https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp)
 
-[asparagopsis](C:\Users\Tal\OneDrive - Haifa University\Documents\Haifa\lab\People\Omri Nahor)
+[asparagopsis](C:\Users\Tal\OneDrive - Haifa University\Documents\GitHub\Research-Methods-_TLK\Figs)
+
